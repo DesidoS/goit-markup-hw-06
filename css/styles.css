@@ -423,7 +423,7 @@ background-image: url(../images/check1.svg);
   width: 100%;
   height: 70px;
   background-color: var(--doing-bcg);
-  /* padding-top: 27px; */
+  padding-top: 27px;
 }
 /* Section three */
 /* ------------------------------------------- */
